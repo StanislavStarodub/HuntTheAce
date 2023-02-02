@@ -1,6 +1,6 @@
 # HuntTheAce
 This is a simple card game written in JavaScript
-##Here
+## Here
 - created dynamic user interactive code with vanilla JavaScript
 - created some animation effects
 - responsive layout design using CSS grid, CSS FlexBox and media queries
